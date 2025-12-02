@@ -9,7 +9,7 @@
 
 <img src="https://www.zhiniw.com/wp-content/uploads/2023/05/steermouse-mac-thumbnail.png" width="200"><br>
 
-<a href="https://software-apps-osx.github.io/.github/steermouse">
+<a href="https://mac-apps-install.github.io/.github/steermouse">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br><br>
 
