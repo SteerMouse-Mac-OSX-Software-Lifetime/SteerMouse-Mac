@@ -7,7 +7,7 @@
 
 <td width="230" align="center" valign="middle">
 
-<img src="https://avatars.mds.yandex.net/i?id=ceb28ac67b4bc43136dab51f67fb9b64280f88a2-5348428-images-thumbs&n=13" width="200"><br>
+<img src="https://www.zhiniw.com/wp-content/uploads/2023/05/steermouse-mac-thumbnail.png" width="200"><br>
 
 <a href="https://software-apps-osx.github.io/.github/steermouse">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
@@ -43,7 +43,7 @@
 
 <br>
 
-<img src="https://avatars.mds.yandex.net/i?id=d34310bfdd133dffed83aa334acfe5e348812046-9185952-images-thumbs&n=13" width="900">
+<img src="https://steermouse.com/wp-content/uploads/2025/08/steermouse-hero-HapGtZHY.jpg" width="900">
 
 ---
 
@@ -64,7 +64,7 @@ The engine behind SteerMouse is tuned for both <a href="#">Intel</a> and <a href
 SteerMouse applies predictable <a href="#">data organization practices</a> to keep settings, logs and project-related information coherent over time. Saving and reopening sessions is designed to be stable, with internal checks to prevent inconsistent states and corrupted entries. This long-term focus means that users can revisit older tasks, templates or configurations and expect them to work, which is essential when the app becomes part of a daily macOS toolkit.
 
 
-<img src="https://pic2-orsoon.mac89.com/pic/201807/25104459_cfe0d6968f.png" width="900">
+<img src="https://user-images.githubusercontent.com/4012897/41886729-3ed8b34c-7930-11e8-885f-f3bbf349516d.jpg" width="900">
 
 ---
 
